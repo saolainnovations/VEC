@@ -1,0 +1,6 @@
+Wiring the HC-SR04 (Ultrasonic Sensor)to Raspberry Pi:
+HC-SR04 Pin	 ->   Raspberry Pi GPIO Pin
+    VCC	     ->         5V
+    GND	     ->         GND
+    TRIG	 ->        GPIO 23
+    ECHO	 ->        GPIO 24 
